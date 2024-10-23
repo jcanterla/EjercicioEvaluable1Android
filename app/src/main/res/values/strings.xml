@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioEvaluable1.1</string>
+    <string name="url">Inserte una url</string>
+    <string name="button">Validar</string>
+</resources>
